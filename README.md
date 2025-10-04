@@ -18,7 +18,7 @@ ai-assistant/
 ├── api/
 │   └── chat.py           # Backend API endpoint
 ├── public/
-│   └── index.html        # Frontend interface (password: Arif)
+│   └── index.html        # Frontend interface
 ├── requirements.txt     dependencies
 ├── vercel.json          # Vercel configuration (IMPORTANT!)
 ├── .gitignore           # Git ignore file
